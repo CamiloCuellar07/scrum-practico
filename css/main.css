@@ -1,5 +1,24 @@
 /* MAIN STYLE */
 
-.title {
+.carousel-item,
+.carousel-inner,
+.carousel-inner img {
+    height: 400px;
+    width: 100%;
+}
+
+.center-text {
     text-align: center;
+}
+
+.carousel-item {
+  text-align: center;
+}
+
+.main-title {
+    text-align: center;
+}
+
+.caption-product h4 {
+    margin: 0;
 }
