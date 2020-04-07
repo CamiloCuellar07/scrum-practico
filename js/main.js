@@ -1,5 +1,7 @@
 // MAIN MODULE
+(function(){
+    'use strict';
 
-'use strict';
+    $('.carousel').carousel();
 
-console.log('init');
+})();
